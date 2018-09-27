@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/attendance"
+            android:icon="@drawable/ic_menu_send"
+            android:title="LOGIN" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Internal Marks" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Notes" />
+
+    </group>
+
+    <item android:title="Select the class you need to take the attendance for">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:title="CSE 4\'A\'"/>
+            <item
+                android:id="@+id/nav_send"
+                android:title="CSE 4\'B\'" />
+        </menu>
+    </item>
+
+</menu>

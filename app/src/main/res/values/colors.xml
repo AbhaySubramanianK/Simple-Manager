@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="Black">#050505</color>
+    <color name="Green">#8de437</color>
+    <color name="Red">#f2f41303</color>
+        <color name="colortext">#444a59</color>
+        <color name="colorbg">#ffffff</color>
+        <color name="btcolorbg">#C5C7CC</color>
+        <color name="background_line">#444a59</color>
+
+
+
+</resources>

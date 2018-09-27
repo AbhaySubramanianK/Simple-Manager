@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Simple Manager</string>
+    <string name="title_activity_faculty">faculty</string>
+    <string name="action_settings">Change Password</string>
+    <string name="present">Present</string>
+    <string name="absent">Absent</string>
+    <string name="take_attendance">Take Attendance</string>
+    <string name="student_details">Student Details</string>
+    <string name="RegistrationNo">USN No</string>
+    <string name="Name">Name</string>
+    <string name="AddNewStudent">Add New Student</string>
+    <string name="CSE">Students in CSE 4\'A\'</string>
+    <string name="del">Remove this student</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_main">Simple Manager</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Simple Manager</string>
+    <string name="nav_header_subtitle">Manage your attendance on the go !</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="LetsGo">Lets Go !!</string>
+    <string name="WelcomeText">Welcome to SimpleManager 1.0.Beta. </string>
+    <string name="WelcomeText2">Be prepared to experience the next generation of attendance keeping. Carrying those huge 300 pages registers everytime while
+taking classes is hectic and very inefficient. Thats why we want to revolutionize the way attendance is taken. We introduce
+SimpleManager, a simple android app that is very efficient in what it does, and starts with 3 simple steps.\n\n
+1) Enter the students USN and NAME\n\n
+2) With the table generated, take attendance with a click of a button.\n\n
+3) Walla! Its done. You get the no of classes present, absent, total classes attended, attendance percentage, attendance for
+        a particular days and more!\n\n
+
+This app does everything for you. So get rid of that attendance register and lets start !!!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="text_size">16dp</string>
+
+    <string name="button1">CSE 4\'A\'</string>
+    <string name="button2">CSE 4\'B\'</string>
+    <string name="button3">CSE 6\'A\'</string>
+    <string name ="classtext">Please select the class you want to take the attendance for</string>
+
+
+
+
+
+</resources>
